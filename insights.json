@@ -1,0 +1,303 @@
+{
+  "brands" : [
+    {
+      "id" : "a-lange-sohne",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "audemars-piguet",
+      "mentions" : 2,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "baltic",
+      "mentions" : 3,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "black-bay",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "blancpain",
+      "mentions" : 2,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "breguet",
+      "mentions" : 2,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "breitling",
+      "mentions" : 5,
+      "previousSentiment" : 0.32179944993307191,
+      "scoredMentions" : 3,
+      "sentiment" : 0.32179944993307191
+    },
+    {
+      "id" : "cartier",
+      "mentions" : 3,
+      "previousSentiment" : 0.44448893552323182,
+      "scoredMentions" : 3,
+      "sentiment" : 0.44448893552323182
+    },
+    {
+      "id" : "casio",
+      "mentions" : 4,
+      "previousSentiment" : 0.52963816310511902,
+      "scoredMentions" : 4,
+      "sentiment" : 0.52963816310511902
+    },
+    {
+      "id" : "christopher-ward",
+      "mentions" : 4,
+      "previousSentiment" : 0.72117213609938824,
+      "scoredMentions" : 3,
+      "sentiment" : 0.69684772534916795
+    },
+    {
+      "id" : "citizen",
+      "mentions" : 7,
+      "previousSentiment" : 0.64691061014309525,
+      "scoredMentions" : 7,
+      "sentiment" : 0.54518054127363225
+    },
+    {
+      "id" : "datejust",
+      "mentions" : 2,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "doxa",
+      "mentions" : 4,
+      "previousSentiment" : 0.75950681076695525,
+      "scoredMentions" : 4,
+      "sentiment" : 0.79058730427641422
+    },
+    {
+      "id" : "explorer",
+      "mentions" : 2,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "g-shock",
+      "mentions" : 5,
+      "previousSentiment" : 0.55306131122633817,
+      "scoredMentions" : 5,
+      "sentiment" : 0.55306131122633817
+    },
+    {
+      "id" : "glashutte-original",
+      "mentions" : 5,
+      "previousSentiment" : 0.40658062482252716,
+      "scoredMentions" : 5,
+      "sentiment" : 0.40658058607950809
+    },
+    {
+      "id" : "gmt-master",
+      "mentions" : 3,
+      "previousSentiment" : 0.56752055192676687,
+      "scoredMentions" : 3,
+      "sentiment" : 0.56752055192676687
+    },
+    {
+      "id" : "grand-seiko",
+      "mentions" : 11,
+      "previousSentiment" : 0.40537486232008779,
+      "scoredMentions" : 10,
+      "sentiment" : 0.40537484294857828
+    },
+    {
+      "id" : "hamilton",
+      "mentions" : 1,
+      "scoredMentions" : 0
+    },
+    {
+      "id" : "hermes",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "hublot",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "iwc",
+      "mentions" : 3,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "jaeger-lecoultre",
+      "mentions" : 7,
+      "previousSentiment" : 0.45131929850737962,
+      "scoredMentions" : 7,
+      "sentiment" : 0.45131929850737962
+    },
+    {
+      "id" : "longines",
+      "mentions" : 5,
+      "scoredMentions" : 4,
+      "sentiment" : 0.42423662398792805
+    },
+    {
+      "id" : "ming",
+      "mentions" : 4,
+      "previousSentiment" : 0.4249784643179737,
+      "scoredMentions" : 4,
+      "sentiment" : 0.4249784643179737
+    },
+    {
+      "id" : "moonswatch",
+      "mentions" : 2,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "navitimer",
+      "mentions" : 2,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "nomos",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "omega",
+      "mentions" : 37,
+      "previousSentiment" : 0.36540259072901682,
+      "scoredMentions" : 24,
+      "sentiment" : 0.36627844794609893
+    },
+    {
+      "id" : "oris",
+      "mentions" : 3,
+      "scoredMentions" : 3,
+      "sentiment" : 0.71539362711409726
+    },
+    {
+      "id" : "panerai",
+      "mentions" : 3,
+      "scoredMentions" : 3,
+      "sentiment" : 0.8294851921960712
+    },
+    {
+      "id" : "patek-philippe",
+      "mentions" : 6,
+      "previousSentiment" : 0.43447673926129937,
+      "scoredMentions" : 6,
+      "sentiment" : 0.43447674298658967
+    },
+    {
+      "id" : "pelagos",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "reverso",
+      "mentions" : 2,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "rolex",
+      "mentions" : 18,
+      "previousSentiment" : 0.40021522310038404,
+      "scoredMentions" : 17,
+      "sentiment" : 0.36558352839006658
+    },
+    {
+      "id" : "royal-oak",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "santos",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "seamaster",
+      "mentions" : 10,
+      "previousSentiment" : 0.32998130344785748,
+      "scoredMentions" : 5,
+      "sentiment" : 0.39561629826202988
+    },
+    {
+      "id" : "seiko",
+      "mentions" : 34,
+      "previousSentiment" : 0.46390699652370526,
+      "scoredMentions" : 33,
+      "sentiment" : 0.43712034402808003
+    },
+    {
+      "id" : "seiko-5",
+      "mentions" : 3,
+      "previousSentiment" : 0.3855650384599964,
+      "scoredMentions" : 3,
+      "sentiment" : 0.3855650384599964
+    },
+    {
+      "id" : "sinn",
+      "mentions" : 1,
+      "scoredMentions" : 0
+    },
+    {
+      "id" : "speedmaster",
+      "mentions" : 12,
+      "previousSentiment" : 0.44966969243623311,
+      "scoredMentions" : 7,
+      "sentiment" : 0.35644959153128525
+    },
+    {
+      "id" : "submariner",
+      "mentions" : 1,
+      "scoredMentions" : 1
+    },
+    {
+      "id" : "tag-heuer",
+      "mentions" : 7,
+      "previousSentiment" : 0.43458675593137741,
+      "scoredMentions" : 5,
+      "sentiment" : 0.48676936860978604
+    },
+    {
+      "id" : "tudor",
+      "mentions" : 7,
+      "previousSentiment" : 0.56185366428919137,
+      "scoredMentions" : 7,
+      "sentiment" : 0.49329733310730328
+    },
+    {
+      "id" : "ulysse-nardin",
+      "mentions" : 3,
+      "scoredMentions" : 2
+    },
+    {
+      "id" : "vacheron-constantin",
+      "mentions" : 5,
+      "previousSentiment" : 0.3639114217285998,
+      "scoredMentions" : 4,
+      "sentiment" : 0.3639114217285998
+    }
+  ],
+  "generatedAt" : "2026-08-09T13:14:15Z",
+  "schemaVersion" : 1,
+  "sources" : [
+    "Fratello",
+    "Hodinkee",
+    "Monochrome",
+    "Omega Forums",
+    "Revolution",
+    "TheWatchSite",
+    "Time and Tide",
+    "WatchFreeks",
+    "WatchUSeek",
+    "Watches by SJX",
+    "Worn & Wound",
+    "aBlogtoWatch"
+  ],
+  "windowDays" : 7
+}
