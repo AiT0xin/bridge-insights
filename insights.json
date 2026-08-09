@@ -61,7 +61,7 @@
       "mentions" : 5,
       "previousSentiment" : 0.54518054127363225,
       "scoredMentions" : 5,
-      "sentiment" : 0.64212176497094331
+      "sentiment" : 0.64212165838107471
     },
     {
       "id" : "datejust",
@@ -97,7 +97,7 @@
       "mentions" : 4,
       "previousSentiment" : 0.40658058607950809,
       "scoredMentions" : 4,
-      "sentiment" : 0.49649028608109802
+      "sentiment" : 0.49649025790859014
     },
     {
       "id" : "gmt-master",
@@ -127,7 +127,7 @@
       "mentions" : 4,
       "previousSentiment" : 0.45131929850737962,
       "scoredMentions" : 4,
-      "sentiment" : 0.47662248439155519
+      "sentiment" : 0.47662245621904731
     },
     {
       "id" : "longines",
@@ -149,10 +149,10 @@
     },
     {
       "id" : "omega",
-      "mentions" : 36,
+      "mentions" : 40,
       "previousSentiment" : 0.36627844794609893,
-      "scoredMentions" : 20,
-      "sentiment" : 0.35628572193998842
+      "scoredMentions" : 22,
+      "sentiment" : 0.35723016531199892
     },
     {
       "id" : "panerai",
@@ -165,7 +165,7 @@
       "mentions" : 5,
       "previousSentiment" : 0.43447674298658967,
       "scoredMentions" : 5,
-      "sentiment" : 0.49369959104806183
+      "sentiment" : 0.49369961004704238
     },
     {
       "id" : "reverso",
@@ -177,7 +177,7 @@
       "mentions" : 12,
       "previousSentiment" : 0.36558352839006658,
       "scoredMentions" : 11,
-      "sentiment" : 0.38260328915247865
+      "sentiment" : 0.38260328754383061
     },
     {
       "id" : "royal-oak",
@@ -191,17 +191,17 @@
     },
     {
       "id" : "seamaster",
-      "mentions" : 8,
+      "mentions" : 9,
       "previousSentiment" : 0.39561629826202988,
-      "scoredMentions" : 7,
-      "sentiment" : 0.47253816172347535
+      "scoredMentions" : 8,
+      "sentiment" : 0.40640821287524886
     },
     {
       "id" : "seiko",
       "mentions" : 12,
       "previousSentiment" : 0.43712034402808003,
       "scoredMentions" : 12,
-      "sentiment" : 0.62595265872854122
+      "sentiment" : 0.62595266028074548
     },
     {
       "id" : "seiko-5",
@@ -214,7 +214,7 @@
       "mentions" : 10,
       "previousSentiment" : 0.35644959153128525,
       "scoredMentions" : 4,
-      "sentiment" : 0.47013265968896445
+      "sentiment" : 0.46584106722809371
     },
     {
       "id" : "submariner",
@@ -226,7 +226,7 @@
       "mentions" : 5,
       "previousSentiment" : 0.48676936860978604,
       "scoredMentions" : 3,
-      "sentiment" : 0.42811409609081846
+      "sentiment" : 0.42811400055264431
     },
     {
       "id" : "tudor",
@@ -253,7 +253,7 @@
       "scoredMentions" : 1
     }
   ],
-  "generatedAt" : "2026-08-09T15:58:59Z",
+  "generatedAt" : "2026-08-09T18:42:56Z",
   "schemaVersion" : 1,
   "sources" : [
     "Fratello",
