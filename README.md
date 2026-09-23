@@ -33,5 +33,3 @@ Mention counts are exact string matching. Sentiment is estimated by three models
 watch media and enthusiast forums, which is not the general public, and coverage of
 that kind skews positive. Differences between brands carry more meaning than any
 single figure.
-
-Generated automatically. Do not edit by hand.
