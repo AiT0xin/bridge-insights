@@ -1,6 +1,7 @@
 # bridge-insights
 
 <img width="2000" height="806" alt="Bridge APP" src="https://github.com/user-attachments/assets/b25065a2-56ca-495d-8159-3045ca45b1bd" />
+<img width="3671" height="1591" alt="diagram(1)" src="https://github.com/user-attachments/assets/d4531b91-98a5-4273-bc0a-d52848d22c0e" />
 
 The published Insight artefact for the Bridge iOS app.
 
