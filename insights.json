@@ -2,10 +2,10 @@
   "brands" : [
     {
       "id" : "a-lange-sohne",
-      "mentions" : 11,
-      "previousSentiment" : 0.429844664596021,
-      "scoredMentions" : 11,
-      "sentiment" : 0.40726319135336037
+      "mentions" : 12,
+      "previousSentiment" : 0.40726319135336037,
+      "scoredMentions" : 12,
+      "sentiment" : 0.43329002840134007
     },
     {
       "id" : "aquanaut",
@@ -15,23 +15,23 @@
     {
       "id" : "atelier-wen",
       "mentions" : 4,
-      "previousSentiment" : 0.356084327608347,
+      "previousSentiment" : 0.35608422950903573,
       "scoredMentions" : 3,
       "sentiment" : 0.35608422950903584
     },
     {
       "id" : "audemars-piguet",
       "mentions" : 10,
-      "previousSentiment" : 0.4709291714010758,
+      "previousSentiment" : 0.4709293354768308,
       "scoredMentions" : 10,
-      "sentiment" : 0.4709293354768306
+      "sentiment" : 0.47092927899211645
     },
     {
       "id" : "baltic",
       "mentions" : 5,
-      "previousSentiment" : 0.6987220430348069,
+      "previousSentiment" : 0.7400972677163777,
       "scoredMentions" : 4,
-      "sentiment" : 0.7400972677163777
+      "sentiment" : 0.6207771721015685
     },
     {
       "id" : "bell-ross",
@@ -41,72 +41,73 @@
     {
       "id" : "black-bay",
       "mentions" : 5,
-      "previousSentiment" : 0.573487081937492,
+      "previousSentiment" : 0.5734870144166052,
       "scoredMentions" : 5,
-      "sentiment" : 0.5734870144166052
+      "sentiment" : 0.5734871149063111
     },
     {
       "id" : "blancpain",
       "mentions" : 9,
-      "previousSentiment" : 0.479412654592283,
+      "previousSentiment" : 0.4693252073057409,
       "scoredMentions" : 9,
-      "sentiment" : 0.4693252073057409
+      "sentiment" : 0.4693251142769637
     },
     {
       "id" : "breguet",
-      "mentions" : 11,
-      "previousSentiment" : 0.46233652808763087,
-      "scoredMentions" : 10,
-      "sentiment" : 0.4623364167014509
+      "mentions" : 12,
+      "previousSentiment" : 0.4623364167014509,
+      "scoredMentions" : 11,
+      "sentiment" : 0.48363442174636506
     },
     {
       "id" : "breitling",
       "mentions" : 9,
-      "previousSentiment" : 0.5758309319914717,
+      "previousSentiment" : 0.5758308651524463,
       "scoredMentions" : 7,
-      "sentiment" : 0.5758308651524462
+      "sentiment" : 0.5758309502354158
     },
     {
       "id" : "bulgari",
       "label" : "Bulgari",
       "mentions" : 9,
-      "previousSentiment" : 0.4896360893291421,
+      "previousSentiment" : 0.4896360278036447,
       "scoredMentions" : 8,
-      "sentiment" : 0.48963602780364457
+      "sentiment" : 0.4896360051026567
     },
     {
       "id" : "bulova",
       "label" : "Bulova",
       "mentions" : 8,
-      "previousSentiment" : 0.7340316287445601,
+      "previousSentiment" : 0.7340316504414661,
       "scoredMentions" : 8,
-      "sentiment" : 0.7340316504414659
+      "sentiment" : 0.734031688334653
     },
     {
       "id" : "cartier",
       "mentions" : 11,
-      "previousSentiment" : 0.4722482812799139,
+      "previousSentiment" : 0.4458119247975336,
       "scoredMentions" : 11,
-      "sentiment" : 0.44581192479753357
+      "sentiment" : 0.4458119063404134
     },
     {
       "id" : "casio",
-      "mentions" : 6,
-      "previousSentiment" : 0.402966420326382,
-      "scoredMentions" : 5,
-      "sentiment" : 0.42746836745366457
+      "mentions" : 7,
+      "previousSentiment" : 0.42746836745366446,
+      "scoredMentions" : 6,
+      "sentiment" : 0.52769811977533
     },
     {
       "id" : "chopard",
-      "mentions" : 3,
-      "scoredMentions" : 2
+      "mentions" : 4,
+      "scoredMentions" : 3,
+      "sentiment" : 0.5540508415798345
     },
     {
       "id" : "christopher-ward",
       "mentions" : 10,
-      "previousSentiment" : 0.4465010911226274,
+      "previousSentiment" : 0.5177885666489601,
       "scoredMentions" : 6,
-      "sentiment" : 0.5177885666489601
+      "sentiment" : 0.48419303672077757
     },
     {
       "id" : "chronoswiss",
@@ -116,10 +117,10 @@
     },
     {
       "id" : "citizen",
-      "mentions" : 10,
-      "previousSentiment" : 0.6677287099766545,
-      "scoredMentions" : 10,
-      "sentiment" : 0.6677287193480879
+      "mentions" : 11,
+      "previousSentiment" : 0.6677287193480879,
+      "scoredMentions" : 11,
+      "sentiment" : 0.6324912438338454
     },
     {
       "id" : "datejust",
@@ -129,37 +130,37 @@
     {
       "id" : "daytona",
       "mentions" : 10,
-      "previousSentiment" : 0.5599288560042623,
+      "previousSentiment" : 0.5469892526452892,
       "scoredMentions" : 8,
-      "sentiment" : 0.5469892526452893
+      "sentiment" : 0.574321813037386
     },
     {
       "id" : "doxa",
       "mentions" : 6,
-      "previousSentiment" : 0.5908516967319883,
+      "previousSentiment" : 0.5075190346688032,
       "scoredMentions" : 4,
-      "sentiment" : 0.5075190346688032
+      "sentiment" : 0.49805456236936163
     },
     {
       "id" : "el-primero",
       "mentions" : 4,
-      "previousSentiment" : 0.628858319634013,
+      "previousSentiment" : 0.6288581886085679,
       "scoredMentions" : 4,
-      "sentiment" : 0.6288581886085681
+      "sentiment" : 0.6288582331956365
     },
     {
       "id" : "explorer",
       "mentions" : 3,
-      "previousSentiment" : 0.709483670327316,
+      "previousSentiment" : 0.7094836096361277,
       "scoredMentions" : 3,
-      "sentiment" : 0.7094836096361279
+      "sentiment" : 0.7094836804166436
     },
     {
       "id" : "f-p-journe",
       "mentions" : 7,
-      "previousSentiment" : 0.406191941195478,
+      "previousSentiment" : 0.3551714398587743,
       "scoredMentions" : 6,
-      "sentiment" : 0.35517143985877436
+      "sentiment" : 0.35517141486828524
     },
     {
       "id" : "fears",
@@ -171,95 +172,95 @@
       "id" : "formex",
       "label" : "Formex",
       "mentions" : 10,
-      "previousSentiment" : 0.4273951572166549,
+      "previousSentiment" : 0.42739500209970605,
       "scoredMentions" : 9,
-      "sentiment" : 0.4273950020997061
+      "sentiment" : 0.42739502879761987
     },
     {
       "id" : "g-shock",
       "mentions" : 10,
-      "previousSentiment" : 0.38548725181569654,
+      "previousSentiment" : 0.4059056125674398,
       "scoredMentions" : 6,
-      "sentiment" : 0.4059056125674397
+      "sentiment" : 0.532146758067732
     },
     {
       "id" : "gerald-genta",
       "label" : "Gerald Genta",
       "mentions" : 7,
-      "previousSentiment" : 0.7160209658828566,
+      "previousSentiment" : 0.7160208834414059,
       "scoredMentions" : 6,
-      "sentiment" : 0.7160208834414058
+      "sentiment" : 0.7160208842757158
     },
     {
       "id" : "girard-perregaux",
       "mentions" : 6,
-      "previousSentiment" : 0.8303074642830991,
+      "previousSentiment" : 0.8303075567459688,
       "scoredMentions" : 4,
-      "sentiment" : 0.8303075567459687
+      "sentiment" : 0.8303075589578598
     },
     {
       "id" : "glashutte-original",
       "mentions" : 9,
-      "previousSentiment" : 0.5415939681978277,
+      "previousSentiment" : 0.541593975519058,
       "scoredMentions" : 9,
-      "sentiment" : 0.5415939755190579
+      "sentiment" : 0.5415939755190577
     },
     {
       "id" : "grand-seiko",
-      "mentions" : 11,
-      "previousSentiment" : 0.5736082868078893,
-      "scoredMentions" : 11,
-      "sentiment" : 0.5736084527738053
+      "mentions" : 12,
+      "previousSentiment" : 0.5736084527738056,
+      "scoredMentions" : 12,
+      "sentiment" : 0.5857924215786469
     },
     {
       "id" : "h-moser",
-      "mentions" : 11,
-      "previousSentiment" : 0.4659529093221506,
-      "scoredMentions" : 11,
-      "sentiment" : 0.4659526856354015
+      "mentions" : 12,
+      "previousSentiment" : 0.4659526856354015,
+      "scoredMentions" : 12,
+      "sentiment" : 0.4851746302866688
     },
     {
       "id" : "hamilton",
       "mentions" : 16,
-      "previousSentiment" : 0.5458461508795045,
+      "previousSentiment" : 0.5346167179651824,
       "scoredMentions" : 14,
-      "sentiment" : 0.5346167179651825
+      "sentiment" : 0.5346167089845719
     },
     {
       "id" : "hanhart",
       "label" : "Hanhart",
       "mentions" : 7,
-      "previousSentiment" : 0.5817516936114056,
+      "previousSentiment" : 0.5817519091737767,
       "scoredMentions" : 6,
-      "sentiment" : 0.5817519091737767
+      "sentiment" : 0.5817519445640346
     },
     {
       "id" : "hublot",
       "mentions" : 13,
-      "previousSentiment" : 0.45882771163017233,
+      "previousSentiment" : 0.44021886721446446,
       "scoredMentions" : 11,
-      "sentiment" : 0.4402188672144644
+      "sentiment" : 0.5194322182892398
     },
     {
       "id" : "iwc",
       "mentions" : 14,
-      "previousSentiment" : 0.6041585399211117,
+      "previousSentiment" : 0.6041584979533883,
       "scoredMentions" : 14,
-      "sentiment" : 0.6041584979533882
+      "sentiment" : 0.6041585067926373
     },
     {
       "id" : "jaeger-lecoultre",
       "mentions" : 10,
-      "previousSentiment" : 0.4073500404215604,
+      "previousSentiment" : 0.4073500236344712,
       "scoredMentions" : 10,
-      "sentiment" : 0.40735002363447104
+      "sentiment" : 0.4073500471037999
     },
     {
       "id" : "longines",
       "mentions" : 14,
-      "previousSentiment" : 0.48851629323277324,
+      "previousSentiment" : 0.4885163064503898,
       "scoredMentions" : 13,
-      "sentiment" : 0.4885163064503899
+      "sentiment" : 0.4885163109995424
     },
     {
       "id" : "louis-moinet",
@@ -270,16 +271,16 @@
       "id" : "louis-vuitton",
       "label" : "Louis Vuitton",
       "mentions" : 8,
-      "previousSentiment" : 0.5896647249547498,
+      "previousSentiment" : 0.5896649434829397,
       "scoredMentions" : 7,
       "sentiment" : 0.5896649434829396
     },
     {
       "id" : "ming",
       "mentions" : 4,
-      "previousSentiment" : 0.3978829871630295,
+      "previousSentiment" : 0.39788364351261396,
       "scoredMentions" : 4,
-      "sentiment" : 0.39788364351261396
+      "sentiment" : 0.3978835375746711
     },
     {
       "id" : "monta",
@@ -294,9 +295,9 @@
     {
       "id" : "moonswatch",
       "mentions" : 5,
-      "previousSentiment" : 0.11994241788415234,
+      "previousSentiment" : 0.3100414238870143,
       "scoredMentions" : 4,
-      "sentiment" : 0.3100414238870144
+      "sentiment" : 0.11994234494995329
     },
     {
       "id" : "nautilus",
@@ -310,17 +311,17 @@
     },
     {
       "id" : "nomos",
-      "mentions" : 7,
-      "previousSentiment" : 0.5559247188297659,
+      "mentions" : 8,
+      "previousSentiment" : 0.5559247776427865,
       "scoredMentions" : 5,
       "sentiment" : 0.5559247776427865
     },
     {
       "id" : "omega",
-      "mentions" : 111,
-      "previousSentiment" : 0.33247561953375104,
-      "scoredMentions" : 78,
-      "sentiment" : 0.32976604695040973
+      "mentions" : 119,
+      "previousSentiment" : 0.3297660469504096,
+      "scoredMentions" : 82,
+      "sentiment" : 0.33875486925144616
     },
     {
       "id" : "orient",
@@ -330,23 +331,23 @@
     {
       "id" : "oris",
       "mentions" : 4,
-      "previousSentiment" : 0.7087109638944271,
+      "previousSentiment" : 0.7103741210145875,
       "scoredMentions" : 4,
-      "sentiment" : 0.7103741210145875
+      "sentiment" : 0.7103743810864165
     },
     {
       "id" : "panerai",
       "mentions" : 8,
-      "previousSentiment" : 0.6074982280454908,
+      "previousSentiment" : 0.6504698534346453,
       "scoredMentions" : 7,
       "sentiment" : 0.6504698534346453
     },
     {
       "id" : "patek-philippe",
       "mentions" : 28,
-      "previousSentiment" : 0.5376601337765499,
+      "previousSentiment" : 0.5374135148562342,
       "scoredMentions" : 25,
-      "sentiment" : 0.5374135148562342
+      "sentiment" : 0.5374134992007017
     },
     {
       "id" : "pelagos",
@@ -356,14 +357,14 @@
     {
       "id" : "prospex",
       "mentions" : 5,
-      "previousSentiment" : 0.6584627319625765,
+      "previousSentiment" : 0.6584624924729762,
       "scoredMentions" : 5,
-      "sentiment" : 0.6584624924729764
+      "sentiment" : 0.6584625018793344
     },
     {
       "id" : "rado",
       "mentions" : 3,
-      "previousSentiment" : 0.4804081094344458,
+      "previousSentiment" : 0.4804082084650795,
       "scoredMentions" : 3,
       "sentiment" : 0.48040820846507953
     },
@@ -380,16 +381,16 @@
     {
       "id" : "rolex",
       "mentions" : 48,
-      "previousSentiment" : 0.4670815836038069,
+      "previousSentiment" : 0.459237395399627,
       "scoredMentions" : 43,
-      "sentiment" : 0.459237395399627
+      "sentiment" : 0.4592373933258099
     },
     {
       "id" : "royal-oak",
       "mentions" : 6,
-      "previousSentiment" : 0.4178440667067965,
+      "previousSentiment" : 0.417844372180601,
       "scoredMentions" : 6,
-      "sentiment" : 0.41784437218060094
+      "sentiment" : 0.41784432778755826
     },
     {
       "id" : "santos",
@@ -398,22 +399,22 @@
     },
     {
       "id" : "seamaster",
-      "mentions" : 32,
-      "previousSentiment" : 0.3746578202968868,
-      "scoredMentions" : 23,
-      "sentiment" : 0.3011351545264701
+      "mentions" : 34,
+      "previousSentiment" : 0.3011351545264701,
+      "scoredMentions" : 24,
+      "sentiment" : 0.43925802263622177
     },
     {
       "id" : "seiko",
-      "mentions" : 34,
-      "previousSentiment" : 0.5814725932149998,
-      "scoredMentions" : 33,
-      "sentiment" : 0.5724182754073517
+      "mentions" : 37,
+      "previousSentiment" : 0.5724182754073517,
+      "scoredMentions" : 36,
+      "sentiment" : 0.5487032651095444
     },
     {
       "id" : "seiko-5",
       "mentions" : 5,
-      "previousSentiment" : 0.5902216984167696,
+      "previousSentiment" : 0.4858559991855175,
       "scoredMentions" : 4,
       "sentiment" : 0.48585599918551736
     },
@@ -424,24 +425,31 @@
     },
     {
       "id" : "speedmaster",
-      "mentions" : 28,
-      "previousSentiment" : 0.30724378708017375,
-      "scoredMentions" : 20,
-      "sentiment" : 0.3443894786087796
+      "mentions" : 32,
+      "previousSentiment" : 0.3443894786087796,
+      "scoredMentions" : 22,
+      "sentiment" : 0.33318426308333876
+    },
+    {
+      "id" : "squale",
+      "label" : "Squale",
+      "mentions" : 7,
+      "scoredMentions" : 7,
+      "sentiment" : 0.673382686018997
     },
     {
       "id" : "submariner",
       "mentions" : 5,
-      "previousSentiment" : 0.506990214062979,
+      "previousSentiment" : 0.38990168438628303,
       "scoredMentions" : 4,
-      "sentiment" : 0.38990168438628314
+      "sentiment" : 0.3899017374716699
     },
     {
       "id" : "tag-heuer",
       "mentions" : 17,
-      "previousSentiment" : 0.6626055565637229,
+      "previousSentiment" : 0.6626055626406023,
       "scoredMentions" : 15,
-      "sentiment" : 0.6626055626406023
+      "sentiment" : 0.6626055767967055
     },
     {
       "id" : "tank",
@@ -451,45 +459,45 @@
     {
       "id" : "timex",
       "mentions" : 5,
-      "previousSentiment" : 0.34940307353027167,
+      "previousSentiment" : 0.4976530050290127,
       "scoredMentions" : 3,
-      "sentiment" : 0.4976530050290127
+      "sentiment" : 0.31433664303148784
     },
     {
       "id" : "tissot",
-      "mentions" : 3,
+      "mentions" : 4,
       "scoredMentions" : 2
     },
     {
       "id" : "tudor",
       "mentions" : 18,
-      "previousSentiment" : 0.5569693160231608,
+      "previousSentiment" : 0.5569692213569603,
       "scoredMentions" : 17,
-      "sentiment" : 0.5569692213569604
+      "sentiment" : 0.5569692714292447
     },
     {
       "id" : "ulysse-nardin",
       "mentions" : 7,
-      "previousSentiment" : 0.18108264900123075,
+      "previousSentiment" : 0.18108249587627748,
       "scoredMentions" : 6,
       "sentiment" : 0.18108249587627748
     },
     {
       "id" : "vacheron-constantin",
       "mentions" : 11,
-      "previousSentiment" : 0.4680094363201919,
+      "previousSentiment" : 0.4680094700171358,
       "scoredMentions" : 11,
-      "sentiment" : 0.46800947001713583
+      "sentiment" : 0.46800943505020637
     },
     {
       "id" : "zenith",
       "mentions" : 10,
-      "previousSentiment" : 0.5065542862306246,
+      "previousSentiment" : 0.5065541806677977,
       "scoredMentions" : 9,
-      "sentiment" : 0.5065541806677977
+      "sentiment" : 0.5065542070811406
     }
   ],
-  "generatedAt" : "2026-10-06T21:55:58Z",
+  "generatedAt" : "2026-10-07T12:02:12Z",
   "schemaVersion" : 1,
   "sources" : [
     "Fratello",
