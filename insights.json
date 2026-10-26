@@ -28,10 +28,10 @@
         }
       ],
       "id" : "a-lange-sohne",
-      "mentions" : 16,
+      "mentions" : 17,
       "previousSentiment" : 0.31929352538514266,
-      "scoredMentions" : 12,
-      "sentiment" : 0.31929352538514255
+      "scoredMentions" : 13,
+      "sentiment" : 0.3057898733321577
     },
     {
       "contributors" : [
@@ -66,8 +66,12 @@
           "source" : "Watches by SJX"
         },
         {
-          "count" : 2,
+          "count" : 3,
           "source" : "aBlogtoWatch"
+        },
+        {
+          "count" : 2,
+          "source" : "r\/WatchesCirclejerk"
         },
         {
           "count" : 1,
@@ -80,17 +84,18 @@
         {
           "count" : 1,
           "source" : "Time and Tide"
-        },
-        {
-          "count" : 1,
-          "source" : "WatchUSeek"
         }
       ],
       "id" : "audemars-piguet",
-      "mentions" : 18,
-      "previousSentiment" : 0.1138415392295324,
-      "scoredMentions" : 15,
-      "sentiment" : 0.12085742036253212
+      "mentions" : 23,
+      "previousSentiment" : 0.12085742036253214,
+      "scoredMentions" : 16,
+      "sentiment" : 0.09161069478606801,
+      "topArticle" : {
+        "source" : "aBlogtoWatch",
+        "title" : "aBlogtoWatch Weeky Podcast #244: A New Era For Hublot, AP's Royal Oak Jewelry Collection, And IWC's Ingenieur Revival",
+        "url" : "https:\/\/www.ablogtowatch.com\/ablogtowatch-weeky-podcast-244-a-new-era-for-hublot-aps-royal-oak-jewelry-collection-and-iwcs-ingenieur-revival\/"
+      }
     },
     {
       "contributors" : [
@@ -108,14 +113,18 @@
         },
         {
           "count" : 1,
+          "source" : "r\/ChineseWatches"
+        },
+        {
+          "count" : 1,
           "source" : "r\/MicrobrandWatches"
         }
       ],
       "id" : "baltic",
-      "mentions" : 5,
+      "mentions" : 6,
       "previousSentiment" : 0.19256019390374415,
-      "scoredMentions" : 5,
-      "sentiment" : 0.19256019390374415
+      "scoredMentions" : 6,
+      "sentiment" : 0.17360016158645344
     },
     {
       "contributors" : [
@@ -165,9 +174,9 @@
       ],
       "id" : "black-bay",
       "mentions" : 22,
-      "previousSentiment" : 0.17315685980660214,
+      "previousSentiment" : 0.23259313986964517,
       "scoredMentions" : 15,
-      "sentiment" : 0.2325931398696452
+      "sentiment" : 0.15504063391037282
     },
     {
       "contributors" : [
@@ -185,6 +194,10 @@
         },
         {
           "count" : 1,
+          "source" : "WatchUSeek"
+        },
+        {
+          "count" : 1,
           "source" : "aBlogtoWatch"
         },
         {
@@ -193,7 +206,7 @@
         }
       ],
       "id" : "blancpain",
-      "mentions" : 8,
+      "mentions" : 9,
       "previousSentiment" : 0.17908360996749245,
       "scoredMentions" : 7,
       "sentiment" : 0.17908360996749248
@@ -203,6 +216,10 @@
         {
           "count" : 2,
           "source" : "Time and Tide"
+        },
+        {
+          "count" : 2,
+          "source" : "WatchUSeek"
         },
         {
           "count" : 2,
@@ -219,22 +236,18 @@
         {
           "count" : 1,
           "source" : "Monochrome"
-        },
-        {
-          "count" : 1,
-          "source" : "Omega Forums"
         }
       ],
       "id" : "breguet",
-      "mentions" : 11,
+      "mentions" : 12,
       "previousSentiment" : 0.24790612671705886,
-      "scoredMentions" : 8,
-      "sentiment" : 0.24790612671705892
+      "scoredMentions" : 9,
+      "sentiment" : 0.23633278471475672
     },
     {
       "contributors" : [
         {
-          "count" : 28,
+          "count" : 33,
           "source" : "r\/Breitling"
         },
         {
@@ -254,15 +267,15 @@
           "source" : "Hodinkee"
         },
         {
-          "count" : 1,
-          "source" : "Omega Forums"
+          "count" : 2,
+          "source" : "r\/Longines"
         }
       ],
       "id" : "breitling",
-      "mentions" : 49,
-      "previousSentiment" : 0.06012221640355482,
-      "scoredMentions" : 37,
-      "sentiment" : 0.05985894885403729
+      "mentions" : 58,
+      "previousSentiment" : 0.059858948854037274,
+      "scoredMentions" : 42,
+      "sentiment" : 0.11971531828970287
     },
     {
       "contributors" : [
@@ -290,7 +303,7 @@
       "id" : "bremont",
       "label" : "Bremont",
       "mentions" : 5,
-      "previousSentiment" : 0.10941812074044717,
+      "previousSentiment" : 0.22307855564914636,
       "scoredMentions" : 5,
       "sentiment" : 0.22307855564914641
     },
@@ -323,7 +336,7 @@
     {
       "contributors" : [
         {
-          "count" : 4,
+          "count" : 5,
           "source" : "r\/vintagewatches"
         },
         {
@@ -349,7 +362,7 @@
       ],
       "id" : "bulova",
       "label" : "Bulova",
-      "mentions" : 13,
+      "mentions" : 14,
       "previousSentiment" : 0.3437454751003999,
       "scoredMentions" : 8,
       "sentiment" : 0.34374547510039993
@@ -357,7 +370,7 @@
     {
       "contributors" : [
         {
-          "count" : 4,
+          "count" : 9,
           "source" : "r\/Watches"
         },
         {
@@ -377,48 +390,48 @@
           "source" : "r\/casio"
         },
         {
-          "count" : 1,
-          "source" : "Worn & Wound"
+          "count" : 2,
+          "source" : "r\/vintagewatches"
         }
       ],
       "id" : "cartier",
-      "mentions" : 18,
-      "previousSentiment" : 0.279818915378799,
-      "scoredMentions" : 14,
-      "sentiment" : 0.3259411851078804
+      "mentions" : 26,
+      "previousSentiment" : 0.32594118510788045,
+      "scoredMentions" : 21,
+      "sentiment" : 0.3050766625980182
     },
     {
       "contributors" : [
         {
-          "count" : 40,
+          "count" : 58,
           "source" : "r\/casio"
         },
         {
-          "count" : 11,
+          "count" : 17,
           "source" : "r\/gshock"
         },
         {
-          "count" : 8,
+          "count" : 10,
           "source" : "r\/affordablewatches"
         },
         {
-          "count" : 4,
+          "count" : 7,
           "source" : "r\/JapaneseWatches"
+        },
+        {
+          "count" : 4,
+          "source" : "r\/Watches"
         },
         {
           "count" : 2,
           "source" : "WatchUSeek"
-        },
-        {
-          "count" : 2,
-          "source" : "aBlogtoWatch"
         }
       ],
       "id" : "casio",
-      "mentions" : 77,
-      "previousSentiment" : 0.2807197841493295,
-      "scoredMentions" : 45,
-      "sentiment" : 0.2790645765424106
+      "mentions" : 110,
+      "previousSentiment" : 0.2790645765424105,
+      "scoredMentions" : 68,
+      "sentiment" : 0.23214220202981556
     },
     {
       "contributors" : [
@@ -476,9 +489,9 @@
       "id" : "chanel",
       "label" : "Chanel",
       "mentions" : 6,
-      "previousSentiment" : 0.119759205346927,
+      "previousSentiment" : 0.06178123156540092,
       "scoredMentions" : 4,
-      "sentiment" : 0.061781231565400906
+      "sentiment" : 0.119759205346927
     },
     {
       "contributors" : [
@@ -538,22 +551,22 @@
       ],
       "id" : "christopher-ward",
       "mentions" : 10,
-      "previousSentiment" : 0.4287278553256558,
+      "previousSentiment" : 0.372444775692448,
       "scoredMentions" : 10,
       "sentiment" : 0.372444775692448
     },
     {
       "contributors" : [
         {
-          "count" : 15,
+          "count" : 18,
           "source" : "r\/JapaneseWatches"
         },
         {
-          "count" : 10,
+          "count" : 11,
           "source" : "r\/affordablewatches"
         },
         {
-          "count" : 7,
+          "count" : 8,
           "source" : "r\/Watches"
         },
         {
@@ -570,15 +583,15 @@
         }
       ],
       "id" : "citizen",
-      "mentions" : 51,
-      "previousSentiment" : 0.3561672633710482,
-      "scoredMentions" : 41,
-      "sentiment" : 0.3242050728864242
+      "mentions" : 59,
+      "previousSentiment" : 0.3242050728864242,
+      "scoredMentions" : 48,
+      "sentiment" : 0.3111726377234174
     },
     {
       "contributors" : [
         {
-          "count" : 5,
+          "count" : 11,
           "source" : "r\/rolex"
         },
         {
@@ -595,28 +608,28 @@
         },
         {
           "count" : 1,
-          "source" : "r\/affordablewatches"
+          "source" : "r\/Watches"
         },
         {
           "count" : 1,
-          "source" : "r\/casio"
+          "source" : "r\/affordablewatches"
         }
       ],
       "id" : "datejust",
-      "mentions" : 11,
-      "previousSentiment" : 0.0841485585877671,
-      "scoredMentions" : 5,
-      "sentiment" : 0.02114550297334782
+      "mentions" : 18,
+      "previousSentiment" : 0.021145502973347823,
+      "scoredMentions" : 7,
+      "sentiment" : 0.25091821640953416
     },
     {
       "contributors" : [
         {
-          "count" : 3,
-          "source" : "Watches by SJX"
+          "count" : 8,
+          "source" : "r\/rolex"
         },
         {
           "count" : 3,
-          "source" : "r\/rolex"
+          "source" : "Watches by SJX"
         },
         {
           "count" : 2,
@@ -636,10 +649,10 @@
         }
       ],
       "id" : "daytona",
-      "mentions" : 14,
-      "previousSentiment" : 0.359465631882527,
-      "scoredMentions" : 9,
-      "sentiment" : 0.24796021918455763
+      "mentions" : 19,
+      "previousSentiment" : 0.24796021918455766,
+      "scoredMentions" : 10,
+      "sentiment" : 0.2458043341562152
     },
     {
       "contributors" : [
@@ -653,22 +666,26 @@
         },
         {
           "count" : 2,
+          "source" : "r\/Watches"
+        },
+        {
+          "count" : 2,
           "source" : "r\/vintagewatches"
         },
         {
           "count" : 1,
-          "source" : "aBlogtoWatch"
+          "source" : "WatchUSeek"
         },
         {
           "count" : 1,
-          "source" : "r\/Watches"
+          "source" : "aBlogtoWatch"
         }
       ],
       "id" : "doxa",
-      "mentions" : 8,
-      "previousSentiment" : 0.23796790548510843,
-      "scoredMentions" : 7,
-      "sentiment" : 0.20863561132459765
+      "mentions" : 10,
+      "previousSentiment" : 0.20863561132459768,
+      "scoredMentions" : 8,
+      "sentiment" : 0.23970374289320306
     },
     {
       "contributors" : [
@@ -688,15 +705,15 @@
     {
       "contributors" : [
         {
-          "count" : 7,
+          "count" : 12,
           "source" : "r\/rolex"
         },
         {
-          "count" : 3,
+          "count" : 4,
           "source" : "r\/Tudor"
         },
         {
-          "count" : 2,
+          "count" : 3,
           "source" : "r\/ChineseWatches"
         },
         {
@@ -713,10 +730,10 @@
         }
       ],
       "id" : "explorer",
-      "mentions" : 20,
-      "previousSentiment" : 0.2511877464920748,
-      "scoredMentions" : 12,
-      "sentiment" : 0.22084494183761993
+      "mentions" : 28,
+      "previousSentiment" : 0.22084494183761988,
+      "scoredMentions" : 18,
+      "sentiment" : 0.3063529914721226
     },
     {
       "contributors" : [
@@ -731,9 +748,9 @@
       ],
       "id" : "f-p-journe",
       "mentions" : 6,
-      "previousSentiment" : -0.07913023464381698,
+      "previousSentiment" : 0.09569969076663251,
       "scoredMentions" : 3,
-      "sentiment" : 0.0956996907666325
+      "sentiment" : 0.24299479091539974
     },
     {
       "contributors" : [
@@ -770,7 +787,7 @@
       "mentions" : 7,
       "previousSentiment" : -0.1474335891477018,
       "scoredMentions" : 5,
-      "sentiment" : -0.14743358914770185,
+      "sentiment" : 0.06042345491074023,
       "topArticle" : {
         "source" : "Time and Tide",
         "title" : "Fears teams up with Andrew Morgan to give its Jump Hour a proper send-off with new \"Ultimus\" model",
@@ -797,29 +814,33 @@
         },
         {
           "count" : 1,
+          "source" : "WatchUSeek"
+        },
+        {
+          "count" : 1,
           "source" : "Worn & Wound"
         }
       ],
       "id" : "formex",
       "label" : "Formex",
-      "mentions" : 11,
-      "previousSentiment" : 0.16280283347703517,
-      "scoredMentions" : 10,
-      "sentiment" : 0.11423982175532725
+      "mentions" : 12,
+      "previousSentiment" : 0.11423982175532725,
+      "scoredMentions" : 11,
+      "sentiment" : 0.13966663498177445
     },
     {
       "contributors" : [
         {
-          "count" : 22,
+          "count" : 31,
           "source" : "r\/gshock"
         },
         {
-          "count" : 5,
-          "source" : "r\/Watches"
+          "count" : 7,
+          "source" : "r\/casio"
         },
         {
-          "count" : 4,
-          "source" : "r\/casio"
+          "count" : 6,
+          "source" : "r\/Watches"
         },
         {
           "count" : 3,
@@ -835,10 +856,10 @@
         }
       ],
       "id" : "g-shock",
-      "mentions" : 46,
-      "previousSentiment" : 0.22811305926333664,
-      "scoredMentions" : 24,
-      "sentiment" : 0.2477567856183663
+      "mentions" : 62,
+      "previousSentiment" : 0.24775678561836637,
+      "scoredMentions" : 35,
+      "sentiment" : 0.25680357221662997
     },
     {
       "contributors" : [
@@ -865,7 +886,7 @@
       ],
       "id" : "girard-perregaux",
       "mentions" : 7,
-      "previousSentiment" : 0.4040440008478859,
+      "previousSentiment" : 0.5130012951567766,
       "scoredMentions" : 5,
       "sentiment" : 0.5130012951567768
     },
@@ -890,19 +911,19 @@
       ],
       "id" : "glashutte-original",
       "mentions" : 8,
-      "previousSentiment" : 0.25508527731359,
+      "previousSentiment" : 0.28231047023882455,
       "scoredMentions" : 6,
-      "sentiment" : 0.2823104702388246
+      "sentiment" : 0.24287103888131675
     },
     {
       "contributors" : [
         {
-          "count" : 2,
-          "source" : "WatchUSeek"
+          "count" : 3,
+          "source" : "r\/rolex"
         },
         {
           "count" : 2,
-          "source" : "r\/rolex"
+          "source" : "WatchUSeek"
         },
         {
           "count" : 1,
@@ -911,13 +932,17 @@
         {
           "count" : 1,
           "source" : "Omega Forums"
+        },
+        {
+          "count" : 1,
+          "source" : "r\/MicrobrandWatches"
         }
       ],
       "id" : "gmt-master",
-      "mentions" : 6,
-      "previousSentiment" : 0.31221326527707277,
-      "scoredMentions" : 5,
-      "sentiment" : 0.343768471993953
+      "mentions" : 8,
+      "previousSentiment" : 0.343768471993953,
+      "scoredMentions" : 6,
+      "sentiment" : 0.4474237266616275
     },
     {
       "contributors" : [
@@ -934,7 +959,7 @@
           "source" : "Time and Tide"
         },
         {
-          "count" : 3,
+          "count" : 4,
           "source" : "r\/JapaneseWatches"
         },
         {
@@ -947,10 +972,10 @@
         }
       ],
       "id" : "grand-seiko",
-      "mentions" : 38,
-      "previousSentiment" : 0.28783422798087727,
-      "scoredMentions" : 27,
-      "sentiment" : 0.24372075756488168
+      "mentions" : 40,
+      "previousSentiment" : 0.24372075756488165,
+      "scoredMentions" : 29,
+      "sentiment" : 0.26002197563050256
     },
     {
       "contributors" : [
@@ -968,19 +993,23 @@
         },
         {
           "count" : 1,
+          "source" : "WatchUSeek"
+        },
+        {
+          "count" : 1,
           "source" : "Watches by SJX"
         }
       ],
       "id" : "h-moser",
-      "mentions" : 8,
+      "mentions" : 9,
       "previousSentiment" : 0.023358967918902608,
-      "scoredMentions" : 8,
-      "sentiment" : 0.023358967918902605
+      "scoredMentions" : 9,
+      "sentiment" : 0.017685778447323344
     },
     {
       "contributors" : [
         {
-          "count" : 8,
+          "count" : 9,
           "source" : "r\/Watches"
         },
         {
@@ -1000,15 +1029,15 @@
           "source" : "aBlogtoWatch"
         },
         {
-          "count" : 1,
-          "source" : "r\/ChineseWatches"
+          "count" : 2,
+          "source" : "r\/vintagewatches"
         }
       ],
       "id" : "hamilton",
-      "mentions" : 26,
-      "previousSentiment" : 0.3875718157421549,
-      "scoredMentions" : 20,
-      "sentiment" : 0.37930476664889606
+      "mentions" : 28,
+      "previousSentiment" : 0.3793047666488962,
+      "scoredMentions" : 22,
+      "sentiment" : 0.33214193256189206
     },
     {
       "contributors" : [
@@ -1062,7 +1091,7 @@
     {
       "contributors" : [
         {
-          "count" : 8,
+          "count" : 9,
           "source" : "aBlogtoWatch"
         },
         {
@@ -1087,10 +1116,15 @@
         }
       ],
       "id" : "hublot",
-      "mentions" : 21,
+      "mentions" : 22,
       "previousSentiment" : 0.15497003848966864,
       "scoredMentions" : 17,
-      "sentiment" : 0.15497003848966862
+      "sentiment" : 0.15497003848966862,
+      "topArticle" : {
+        "source" : "aBlogtoWatch",
+        "title" : "aBlogtoWatch Weeky Podcast #244: A New Era For Hublot, AP's Royal Oak Jewelry Collection, And IWC's Ingenieur Revival",
+        "url" : "https:\/\/www.ablogtowatch.com\/ablogtowatch-weeky-podcast-244-a-new-era-for-hublot-aps-royal-oak-jewelry-collection-and-iwcs-ingenieur-revival\/"
+      }
     },
     {
       "contributors" : [
@@ -1107,37 +1141,46 @@
           "source" : "WatchUSeek"
         },
         {
-          "count" : 2,
+          "count" : 3,
           "source" : "r\/Watches"
+        },
+        {
+          "count" : 2,
+          "source" : "aBlogtoWatch"
         },
         {
           "count" : 1,
           "source" : "Fratello"
-        },
-        {
-          "count" : 1,
-          "source" : "Hodinkee"
         }
       ],
       "id" : "iwc",
-      "mentions" : 18,
-      "previousSentiment" : 0.4522597166267356,
-      "scoredMentions" : 15,
-      "sentiment" : 0.4500614187528192
+      "mentions" : 21,
+      "previousSentiment" : 0.4500614187528192,
+      "scoredMentions" : 17,
+      "sentiment" : 0.4368520978698616,
+      "topArticle" : {
+        "source" : "aBlogtoWatch",
+        "title" : "aBlogtoWatch Weeky Podcast #244: A New Era For Hublot, AP's Royal Oak Jewelry Collection, And IWC's Ingenieur Revival",
+        "url" : "https:\/\/www.ablogtowatch.com\/ablogtowatch-weeky-podcast-244-a-new-era-for-hublot-aps-royal-oak-jewelry-collection-and-iwcs-ingenieur-revival\/"
+      }
     },
     {
       "contributors" : [
+        {
+          "count" : 6,
+          "source" : "r\/Watches"
+        },
         {
           "count" : 5,
           "source" : "Time and Tide"
         },
         {
-          "count" : 5,
-          "source" : "r\/Watches"
+          "count" : 2,
+          "source" : "Fratello"
         },
         {
           "count" : 2,
-          "source" : "Fratello"
+          "source" : "WatchUSeek"
         },
         {
           "count" : 1,
@@ -1146,26 +1189,22 @@
         {
           "count" : 1,
           "source" : "Monochrome"
-        },
-        {
-          "count" : 1,
-          "source" : "WatchUSeek"
         }
       ],
       "id" : "jaeger-lecoultre",
-      "mentions" : 18,
-      "previousSentiment" : 0.29960835185824675,
-      "scoredMentions" : 14,
-      "sentiment" : 0.3241490840445405
+      "mentions" : 20,
+      "previousSentiment" : 0.32414908404454057,
+      "scoredMentions" : 15,
+      "sentiment" : 0.31212221502132714
     },
     {
       "contributors" : [
         {
-          "count" : 27,
+          "count" : 29,
           "source" : "r\/Longines"
         },
         {
-          "count" : 10,
+          "count" : 13,
           "source" : "r\/Watches"
         },
         {
@@ -1186,10 +1225,10 @@
         }
       ],
       "id" : "longines",
-      "mentions" : 59,
-      "previousSentiment" : 0.1848891937905635,
-      "scoredMentions" : 41,
-      "sentiment" : 0.1806140594529533
+      "mentions" : 67,
+      "previousSentiment" : 0.18061405945295328,
+      "scoredMentions" : 45,
+      "sentiment" : 0.1800936454328439
     },
     {
       "contributors" : [
@@ -1213,9 +1252,9 @@
       "id" : "louis-vuitton",
       "label" : "Louis Vuitton",
       "mentions" : 10,
-      "previousSentiment" : 0.23359237256352264,
+      "previousSentiment" : 0.23359237256352267,
       "scoredMentions" : 9,
-      "sentiment" : 0.2335923725635227
+      "sentiment" : 0.23359237256352264
     },
     {
       "contributors" : [
@@ -1228,20 +1267,20 @@
           "source" : "aBlogtoWatch"
         },
         {
-          "count" : 1,
-          "source" : "Monochrome"
+          "count" : 2,
+          "source" : "r\/Watches"
         },
         {
           "count" : 1,
-          "source" : "r\/Watches"
+          "source" : "Monochrome"
         }
       ],
       "id" : "mido",
       "label" : "Mido",
-      "mentions" : 6,
-      "previousSentiment" : 0.31346796431303964,
-      "scoredMentions" : 5,
-      "sentiment" : 0.22180593359995635
+      "mentions" : 7,
+      "previousSentiment" : 0.2218059335999564,
+      "scoredMentions" : 6,
+      "sentiment" : 0.3501049446666303
     },
     {
       "contributors" : [
@@ -1355,7 +1394,7 @@
       "id" : "movado",
       "label" : "Movado",
       "mentions" : 8,
-      "previousSentiment" : 0.15992007632628083,
+      "previousSentiment" : 0.220516218566043,
       "scoredMentions" : 7,
       "sentiment" : 0.220516218566043
     },
@@ -1377,7 +1416,7 @@
     {
       "contributors" : [
         {
-          "count" : 7,
+          "count" : 11,
           "source" : "r\/Breitling"
         },
         {
@@ -1402,10 +1441,10 @@
         }
       ],
       "id" : "navitimer",
-      "mentions" : 15,
-      "previousSentiment" : 0.06854043794351933,
-      "scoredMentions" : 14,
-      "sentiment" : 0.03253824710066288
+      "mentions" : 19,
+      "previousSentiment" : 0.03253824710066287,
+      "scoredMentions" : 16,
+      "sentiment" : 0.13314993135521647
     },
     {
       "contributors" : [
@@ -1414,12 +1453,12 @@
           "source" : "aBlogtoWatch"
         },
         {
-          "count" : 2,
-          "source" : "Time and Tide"
+          "count" : 3,
+          "source" : "r\/Watches"
         },
         {
           "count" : 2,
-          "source" : "r\/Watches"
+          "source" : "Time and Tide"
         },
         {
           "count" : 1,
@@ -1435,20 +1474,24 @@
         }
       ],
       "id" : "nomos",
-      "mentions" : 11,
-      "previousSentiment" : 0.25859581256043174,
+      "mentions" : 12,
+      "previousSentiment" : 0.36305616857535206,
       "scoredMentions" : 8,
       "sentiment" : 0.36305616857535206
     },
     {
       "contributors" : [
         {
-          "count" : 24,
+          "count" : 27,
           "source" : "Omega Forums"
         },
         {
-          "count" : 11,
+          "count" : 15,
           "source" : "r\/Watches"
+        },
+        {
+          "count" : 10,
+          "source" : "r\/vintagewatches"
         },
         {
           "count" : 6,
@@ -1456,35 +1499,31 @@
         },
         {
           "count" : 6,
-          "source" : "r\/vintagewatches"
+          "source" : "WatchUSeek"
         },
         {
           "count" : 5,
           "source" : "Fratello"
-        },
-        {
-          "count" : 5,
-          "source" : "WatchUSeek"
         }
       ],
       "id" : "omega",
-      "mentions" : 80,
-      "previousSentiment" : 0.2595666234571486,
-      "scoredMentions" : 66,
-      "sentiment" : 0.23802598029743657
+      "mentions" : 92,
+      "previousSentiment" : 0.23802598029743666,
+      "scoredMentions" : 74,
+      "sentiment" : 0.24963963884364654
     },
     {
       "contributors" : [
         {
-          "count" : 5,
+          "count" : 6,
           "source" : "r\/affordablewatches"
         },
         {
-          "count" : 4,
+          "count" : 5,
           "source" : "r\/Watches"
         },
         {
-          "count" : 3,
+          "count" : 4,
           "source" : "r\/JapaneseWatches"
         },
         {
@@ -1501,10 +1540,10 @@
         }
       ],
       "id" : "orient",
-      "mentions" : 17,
-      "previousSentiment" : 0.31220799107919434,
-      "scoredMentions" : 11,
-      "sentiment" : 0.35999978593344034
+      "mentions" : 20,
+      "previousSentiment" : 0.35999978593344034,
+      "scoredMentions" : 13,
+      "sentiment" : 0.41091371853876013
     },
     {
       "contributors" : [
@@ -1521,7 +1560,7 @@
           "source" : "Monochrome"
         },
         {
-          "count" : 1,
+          "count" : 2,
           "source" : "r\/Watches"
         },
         {
@@ -1530,10 +1569,10 @@
         }
       ],
       "id" : "oris",
-      "mentions" : 9,
+      "mentions" : 10,
       "previousSentiment" : 0.217200306430459,
-      "scoredMentions" : 7,
-      "sentiment" : 0.217200306430459
+      "scoredMentions" : 8,
+      "sentiment" : 0.276809808468679
     },
     {
       "contributors" : [
@@ -1543,11 +1582,11 @@
         },
         {
           "count" : 2,
-          "source" : "aBlogtoWatch"
+          "source" : "WatchUSeek"
         },
         {
-          "count" : 1,
-          "source" : "WatchUSeek"
+          "count" : 2,
+          "source" : "aBlogtoWatch"
         },
         {
           "count" : 1,
@@ -1555,10 +1594,10 @@
         }
       ],
       "id" : "panerai",
-      "mentions" : 7,
-      "previousSentiment" : 0.18356530702163779,
-      "scoredMentions" : 7,
-      "sentiment" : 0.1381841287319149
+      "mentions" : 8,
+      "previousSentiment" : 0.13818412873191488,
+      "scoredMentions" : 8,
+      "sentiment" : 0.18040404515890401
     },
     {
       "contributors" : [
@@ -1576,6 +1615,10 @@
         },
         {
           "count" : 1,
+          "source" : "WatchUSeek"
+        },
+        {
+          "count" : 1,
           "source" : "r\/Breitling"
         },
         {
@@ -1584,20 +1627,24 @@
         }
       ],
       "id" : "patek-philippe",
-      "mentions" : 19,
-      "previousSentiment" : 0.1234921011258848,
-      "scoredMentions" : 12,
-      "sentiment" : 0.18979540432492892
+      "mentions" : 20,
+      "previousSentiment" : 0.18979540432492897,
+      "scoredMentions" : 14,
+      "sentiment" : 0.19012763651353973
     },
     {
       "contributors" : [
         {
-          "count" : 4,
+          "count" : 7,
           "source" : "r\/Tudor"
         },
         {
           "count" : 1,
           "source" : "Fratello"
+        },
+        {
+          "count" : 1,
+          "source" : "WatchUSeek"
         },
         {
           "count" : 1,
@@ -1610,17 +1657,13 @@
         {
           "count" : 1,
           "source" : "r\/GrandSeiko"
-        },
-        {
-          "count" : 1,
-          "source" : "r\/Watches"
         }
       ],
       "id" : "pelagos",
-      "mentions" : 9,
-      "previousSentiment" : 0.14114108733013273,
-      "scoredMentions" : 7,
-      "sentiment" : 0.2192144937516855
+      "mentions" : 15,
+      "previousSentiment" : 0.21921449375168542,
+      "scoredMentions" : 12,
+      "sentiment" : 0.28459418031365297
     },
     {
       "contributors" : [
@@ -1633,22 +1676,23 @@
           "source" : "r\/Seiko"
         },
         {
+          "count" : 2,
+          "source" : "r\/Watches"
+        },
+        {
           "count" : 1,
           "source" : "Watches by SJX"
         },
         {
           "count" : 1,
           "source" : "r\/ChineseWatches"
-        },
-        {
-          "count" : 1,
-          "source" : "r\/Watches"
         }
       ],
       "id" : "prospex",
-      "mentions" : 12,
-      "scoredMentions" : 8,
-      "sentiment" : -0.15801021423623898
+      "mentions" : 13,
+      "previousSentiment" : -0.15801021423623893,
+      "scoredMentions" : 9,
+      "sentiment" : -0.19048623923183317
     },
     {
       "contributors" : [
@@ -1736,7 +1780,7 @@
     {
       "contributors" : [
         {
-          "count" : 3,
+          "count" : 4,
           "source" : "r\/Watches"
         },
         {
@@ -1745,7 +1789,7 @@
         }
       ],
       "id" : "reverso",
-      "mentions" : 4,
+      "mentions" : 5,
       "scoredMentions" : 2
     },
     {
@@ -1770,8 +1814,12 @@
     {
       "contributors" : [
         {
-          "count" : 40,
+          "count" : 71,
           "source" : "r\/rolex"
+        },
+        {
+          "count" : 16,
+          "source" : "r\/Watches"
         },
         {
           "count" : 14,
@@ -1779,15 +1827,11 @@
         },
         {
           "count" : 10,
-          "source" : "r\/Watches"
+          "source" : "r\/Tudor"
         },
         {
           "count" : 8,
           "source" : "aBlogtoWatch"
-        },
-        {
-          "count" : 8,
-          "source" : "r\/Tudor"
         },
         {
           "count" : 7,
@@ -1795,10 +1839,10 @@
         }
       ],
       "id" : "rolex",
-      "mentions" : 133,
-      "previousSentiment" : 0.20928247137479752,
-      "scoredMentions" : 98,
-      "sentiment" : 0.19786082758005819
+      "mentions" : 179,
+      "previousSentiment" : 0.19786082758005819,
+      "scoredMentions" : 124,
+      "sentiment" : 0.23772124420446342
     },
     {
       "contributors" : [
@@ -1807,12 +1851,12 @@
           "source" : "Watches by SJX"
         },
         {
-          "count" : 1,
-          "source" : "WatchUSeek"
+          "count" : 2,
+          "source" : "aBlogtoWatch"
         },
         {
           "count" : 1,
-          "source" : "aBlogtoWatch"
+          "source" : "WatchUSeek"
         },
         {
           "count" : 1,
@@ -1828,34 +1872,43 @@
         }
       ],
       "id" : "royal-oak",
-      "mentions" : 8,
-      "previousSentiment" : 0.0429155965947679,
+      "mentions" : 9,
+      "previousSentiment" : 0.06493611654848788,
       "scoredMentions" : 8,
-      "sentiment" : 0.06493611654848788
+      "sentiment" : 0.06493611654848788,
+      "topArticle" : {
+        "source" : "aBlogtoWatch",
+        "title" : "aBlogtoWatch Weeky Podcast #244: A New Era For Hublot, AP's Royal Oak Jewelry Collection, And IWC's Ingenieur Revival",
+        "url" : "https:\/\/www.ablogtowatch.com\/ablogtowatch-weeky-podcast-244-a-new-era-for-hublot-aps-royal-oak-jewelry-collection-and-iwcs-ingenieur-revival\/"
+      }
     },
     {
       "contributors" : [
         {
-          "count" : 10,
+          "count" : 11,
           "source" : "r\/ChineseWatches"
         },
         {
-          "count" : 1,
+          "count" : 2,
           "source" : "r\/MicrobrandWatches"
         }
       ],
       "id" : "san-martin",
       "label" : "San Martin",
-      "mentions" : 11,
-      "previousSentiment" : 0.3148331183372996,
-      "scoredMentions" : 5,
-      "sentiment" : 0.3644709031053631
+      "mentions" : 13,
+      "previousSentiment" : 0.3644709031053631,
+      "scoredMentions" : 4,
+      "sentiment" : 0.03152563997954127
     },
     {
       "contributors" : [
         {
-          "count" : 3,
+          "count" : 6,
           "source" : "r\/Watches"
+        },
+        {
+          "count" : 1,
+          "source" : "r\/Seiko"
         },
         {
           "count" : 1,
@@ -1867,18 +1920,19 @@
         }
       ],
       "id" : "santos",
-      "mentions" : 5,
-      "scoredMentions" : 3,
-      "sentiment" : 0.27478591137255237
+      "mentions" : 9,
+      "previousSentiment" : 0.2747859113725523,
+      "scoredMentions" : 5,
+      "sentiment" : 0.3925203764997423
     },
     {
       "contributors" : [
         {
-          "count" : 11,
+          "count" : 14,
           "source" : "Omega Forums"
         },
         {
-          "count" : 2,
+          "count" : 3,
           "source" : "WatchUSeek"
         },
         {
@@ -1899,53 +1953,61 @@
         }
       ],
       "id" : "seamaster",
-      "mentions" : 25,
-      "previousSentiment" : 0.19823598609032728,
-      "scoredMentions" : 20,
-      "sentiment" : 0.12765742906775324
+      "mentions" : 29,
+      "previousSentiment" : 0.1276574290677533,
+      "scoredMentions" : 23,
+      "sentiment" : 0.20333690430613474
     },
     {
       "contributors" : [
         {
-          "count" : 37,
+          "count" : 46,
           "source" : "r\/Seiko"
         },
         {
-          "count" : 33,
+          "count" : 43,
           "source" : "r\/JapaneseWatches"
         },
         {
-          "count" : 19,
+          "count" : 29,
           "source" : "r\/Watches"
         },
         {
-          "count" : 8,
+          "count" : 13,
           "source" : "r\/affordablewatches"
         },
         {
-          "count" : 6,
-          "source" : "Time and Tide"
+          "count" : 9,
+          "source" : "WatchUSeek"
         },
         {
-          "count" : 6,
+          "count" : 7,
           "source" : "r\/ChineseWatches"
         }
       ],
       "id" : "seiko",
-      "mentions" : 143,
-      "previousSentiment" : 0.2704933248073661,
-      "scoredMentions" : 87,
-      "sentiment" : 0.27169355887613506
+      "mentions" : 188,
+      "previousSentiment" : 0.271693558876135,
+      "scoredMentions" : 114,
+      "sentiment" : 0.2821350487901764
     },
     {
       "contributors" : [
         {
-          "count" : 3,
+          "count" : 7,
           "source" : "r\/Seiko"
         },
         {
-          "count" : 2,
+          "count" : 4,
           "source" : "r\/Watches"
+        },
+        {
+          "count" : 2,
+          "source" : "r\/JapaneseWatches"
+        },
+        {
+          "count" : 2,
+          "source" : "r\/affordablewatches"
         },
         {
           "count" : 1,
@@ -1954,21 +2016,18 @@
         {
           "count" : 1,
           "source" : "Worn & Wound"
-        },
-        {
-          "count" : 1,
-          "source" : "r\/JapaneseWatches"
         }
       ],
       "id" : "seiko-5",
-      "mentions" : 8,
-      "scoredMentions" : 6,
-      "sentiment" : 0.6586869355725123
+      "mentions" : 18,
+      "previousSentiment" : 0.6586869355725123,
+      "scoredMentions" : 11,
+      "sentiment" : 0.6398863003529608
     },
     {
       "contributors" : [
         {
-          "count" : 4,
+          "count" : 5,
           "source" : "WatchUSeek"
         },
         {
@@ -1993,15 +2052,15 @@
         }
       ],
       "id" : "sinn",
-      "mentions" : 12,
-      "previousSentiment" : 0.32905899407475125,
-      "scoredMentions" : 10,
-      "sentiment" : 0.24633138788957148
+      "mentions" : 14,
+      "previousSentiment" : 0.24633138788957148,
+      "scoredMentions" : 12,
+      "sentiment" : 0.20811404280131682
     },
     {
       "contributors" : [
         {
-          "count" : 6,
+          "count" : 7,
           "source" : "r\/Watches"
         },
         {
@@ -2021,15 +2080,15 @@
           "source" : "Watches by SJX"
         },
         {
-          "count" : 1,
-          "source" : "r\/MicrobrandWatches"
+          "count" : 2,
+          "source" : "r\/vintagewatches"
         }
       ],
       "id" : "speedmaster",
-      "mentions" : 21,
-      "previousSentiment" : 0.36374676914324355,
-      "scoredMentions" : 19,
-      "sentiment" : 0.3180480059358634
+      "mentions" : 23,
+      "previousSentiment" : 0.31804800593586335,
+      "scoredMentions" : 21,
+      "sentiment" : 0.34606117964897837
     },
     {
       "contributors" : [
@@ -2042,6 +2101,10 @@
           "source" : "WatchUSeek"
         },
         {
+          "count" : 3,
+          "source" : "r\/Watches"
+        },
+        {
           "count" : 2,
           "source" : "r\/Tudor"
         },
@@ -2052,17 +2115,13 @@
         {
           "count" : 1,
           "source" : "Monochrome"
-        },
-        {
-          "count" : 1,
-          "source" : "Omega Forums"
         }
       ],
       "id" : "submariner",
-      "mentions" : 19,
-      "previousSentiment" : 0.22544591300836095,
-      "scoredMentions" : 16,
-      "sentiment" : 0.21204600545715074
+      "mentions" : 21,
+      "previousSentiment" : 0.2120460054571507,
+      "scoredMentions" : 17,
+      "sentiment" : 0.1730848028304603
     },
     {
       "contributors" : [
@@ -2092,10 +2151,10 @@
         }
       ],
       "id" : "tag-heuer",
-      "mentions" : 14,
+      "mentions" : 15,
       "previousSentiment" : 0.4926641501751726,
-      "scoredMentions" : 12,
-      "sentiment" : 0.4926641501751727
+      "scoredMentions" : 13,
+      "sentiment" : 0.5310438309309287
     },
     {
       "contributors" : [
@@ -2114,18 +2173,22 @@
         {
           "count" : 1,
           "source" : "Worn & Wound"
+        },
+        {
+          "count" : 1,
+          "source" : "r\/Seiko"
         }
       ],
       "id" : "tank",
-      "mentions" : 6,
-      "previousSentiment" : 0.3270264706587418,
+      "mentions" : 7,
+      "previousSentiment" : 0.41890924826661735,
       "scoredMentions" : 6,
       "sentiment" : 0.4189092482666174
     },
     {
       "contributors" : [
         {
-          "count" : 7,
+          "count" : 10,
           "source" : "r\/Watches"
         },
         {
@@ -2150,15 +2213,15 @@
         }
       ],
       "id" : "timex",
-      "mentions" : 24,
-      "previousSentiment" : 0.31148796667967826,
-      "scoredMentions" : 21,
-      "sentiment" : 0.34983238015432094
+      "mentions" : 28,
+      "previousSentiment" : 0.3498323801543209,
+      "scoredMentions" : 25,
+      "sentiment" : 0.3285859403697774
     },
     {
       "contributors" : [
         {
-          "count" : 28,
+          "count" : 35,
           "source" : "r\/tissot"
         },
         {
@@ -2166,37 +2229,62 @@
           "source" : "Time and Tide"
         },
         {
+          "count" : 4,
+          "source" : "r\/affordablewatches"
+        },
+        {
           "count" : 3,
           "source" : "r\/JapaneseWatches"
         },
         {
+          "count" : 3,
+          "source" : "r\/Watches"
+        },
+        {
           "count" : 2,
           "source" : "Fratello"
-        },
-        {
-          "count" : 2,
-          "source" : "aBlogtoWatch"
-        },
-        {
-          "count" : 2,
-          "source" : "r\/Watches"
         }
       ],
       "id" : "tissot",
-      "mentions" : 49,
-      "previousSentiment" : 0.4004447971413912,
-      "scoredMentions" : 36,
-      "sentiment" : 0.34205739101083016
+      "mentions" : 60,
+      "previousSentiment" : 0.34205739101083016,
+      "scoredMentions" : 40,
+      "sentiment" : 0.20452662646009118
     },
     {
       "contributors" : [
         {
-          "count" : 38,
+          "count" : 5,
+          "source" : "r\/MicrobrandWatches"
+        },
+        {
+          "count" : 1,
+          "source" : "WatchUSeek"
+        },
+        {
+          "count" : 1,
+          "source" : "Worn & Wound"
+        }
+      ],
+      "id" : "traska",
+      "label" : "Traska",
+      "mentions" : 7,
+      "scoredMentions" : 3,
+      "sentiment" : 0.2553194338579972
+    },
+    {
+      "contributors" : [
+        {
+          "count" : 49,
           "source" : "r\/Tudor"
         },
         {
-          "count" : 8,
+          "count" : 10,
           "source" : "r\/Watches"
+        },
+        {
+          "count" : 6,
+          "source" : "WatchUSeek"
         },
         {
           "count" : 6,
@@ -2207,19 +2295,15 @@
           "source" : "Fratello"
         },
         {
-          "count" : 3,
-          "source" : "Time and Tide"
-        },
-        {
-          "count" : 3,
-          "source" : "WatchUSeek"
+          "count" : 4,
+          "source" : "r\/Longines"
         }
       ],
       "id" : "tudor",
-      "mentions" : 77,
-      "previousSentiment" : 0.24976593625812976,
-      "scoredMentions" : 56,
-      "sentiment" : 0.24443014004656255
+      "mentions" : 95,
+      "previousSentiment" : 0.24443014004656258,
+      "scoredMentions" : 68,
+      "sentiment" : 0.25869056616013003
     },
     {
       "contributors" : [
@@ -2237,13 +2321,18 @@
         },
         {
           "count" : 1,
+          "source" : "r\/MicrobrandWatches"
+        },
+        {
+          "count" : 1,
           "source" : "r\/Tudor"
         }
       ],
       "id" : "turtle",
-      "mentions" : 5,
-      "scoredMentions" : 4,
-      "sentiment" : 0.12069605353754008
+      "mentions" : 6,
+      "previousSentiment" : 0.1206960535375401,
+      "scoredMentions" : 5,
+      "sentiment" : 0.131992173846811
     },
     {
       "contributors" : [
@@ -2274,7 +2363,7 @@
       ],
       "id" : "ulysse-nardin",
       "mentions" : 10,
-      "previousSentiment" : 0.059747407258834116,
+      "previousSentiment" : 0.1503029218321293,
       "scoredMentions" : 10,
       "sentiment" : 0.15030292183212932
     },
@@ -2321,16 +2410,28 @@
         {
           "count" : 1,
           "source" : "r\/Watches"
+        },
+        {
+          "count" : 1,
+          "source" : "r\/rolex"
+        },
+        {
+          "count" : 1,
+          "source" : "r\/vintagewatches"
         }
       ],
       "id" : "vacheron-constantin",
-      "mentions" : 6,
-      "previousSentiment" : 0.30481110329795635,
-      "scoredMentions" : 6,
-      "sentiment" : 0.30481110329795624
+      "mentions" : 8,
+      "previousSentiment" : 0.3048111032979562,
+      "scoredMentions" : 7,
+      "sentiment" : 0.2909271591986396
     },
     {
       "contributors" : [
+        {
+          "count" : 5,
+          "source" : "r\/MicrobrandWatches"
+        },
         {
           "count" : 2,
           "source" : "Time and Tide"
@@ -2340,12 +2441,12 @@
           "source" : "aBlogtoWatch"
         },
         {
-          "count" : 2,
-          "source" : "r\/MicrobrandWatches"
+          "count" : 1,
+          "source" : "Monochrome"
         },
         {
           "count" : 1,
-          "source" : "Monochrome"
+          "source" : "WatchUSeek"
         },
         {
           "count" : 1,
@@ -2354,10 +2455,10 @@
       ],
       "id" : "yema",
       "label" : "Yema",
-      "mentions" : 8,
+      "mentions" : 12,
       "previousSentiment" : 0.16531512610148638,
-      "scoredMentions" : 4,
-      "sentiment" : 0.1653151261014864
+      "scoredMentions" : 8,
+      "sentiment" : 0.3614368779235519
     },
     {
       "contributors" : [
@@ -2388,12 +2489,12 @@
       ],
       "id" : "zenith",
       "mentions" : 17,
-      "previousSentiment" : -0.08196158657621311,
+      "previousSentiment" : -0.030614330392197887,
       "scoredMentions" : 14,
       "sentiment" : -0.030614330392197877
     }
   ],
-  "generatedAt" : "2026-10-25T19:15:47Z",
+  "generatedAt" : "2026-10-26T05:14:45Z",
   "schemaVersion" : 1,
   "sources" : [
     "Fratello",
